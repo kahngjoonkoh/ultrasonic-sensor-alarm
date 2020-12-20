@@ -1,2 +1,2 @@
-# Arduino-supersonic-sensor
-An alarm made using Arduino and a compatible supersonic sensor
+# Arduino-ultrasonic-sensor
+An alarm made using Arduino and a compatible ultrasonic sensor
